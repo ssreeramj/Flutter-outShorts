@@ -1,6 +1,8 @@
-# inshorts_dupl
+# Inshorts Clone
 
-A new Flutter project.
+ <img src='images/ui.png' width=300, height=600>
+
+ Just the UI has been completed till now. The news has been hardcoded. The plan is to get some news from an API and format the news appropiately to show in the UI. This will be updated as I work on it. 
 
 ## Getting Started
 
