@@ -1,3 +1,5 @@
+Work in Progress....
+
 # Inshorts Clone
 
  <img src='images/ui.png' width=300, height=600>
